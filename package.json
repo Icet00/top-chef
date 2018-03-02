@@ -1,0 +1,25 @@
+{
+  "name": "web_application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Icet00/top-chef.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Icet00/top-chef/issues"
+  },
+  "homepage": "https://github.com/Icet00/top-chef#readme",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "phantom": "^4.0.12",
+    "request": "latest"
+  }
+}

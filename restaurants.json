@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Le P'tit Bistrot",
+        "price": "prix moyen 20 €",
+        "offer": "-30% sur la carte",
+        "rating": "8.9",
+        "genre": "Cuisine traditionnelle"
+    },
+    {
+        "name": "Autour du Saumon Miron",
+        "price": "prix moyen 42 €",
+        "offer": "-30% sur la carte",
+        "rating": "9.3",
+        "genre": "Scandinave"
+    },
+    {
+        "name": "Trente 5 Rivoli",
+        "price": "prix moyen 35 €",
+        "offer": "-30% sur la carte",
+        "rating": "8.9",
+        "genre": "Français"
+    },
+    {
+        "name": "Primo",
+        "price": "prix moyen 26 €",
+        "offer": "-40% sur la carte",
+        "rating": "8.9",
+        "genre": "Italien"
+    },
+    {
+        "name": "Kiccho",
+        "price": "prix moyen 13 €",
+        "offer": "-30% sur la carte",
+        "rating": "8.5",
+        "genre": "Japonais"
+    },
+    {
+        "name": "Kyo Marais",
+        "price": "prix moyen 13 €",
+        "offer": "-30% sur la carte",
+        "rating": "8.5",
+        "genre": "Japonais"
+    },
+    {
+        "name": "Le Colimaçon",
+        "price": "prix moyen 45 €",
+        "offer": "-20% sur la carte",
+        "rating": "9.4",
+        "genre": "Français"
+    },
+    {
+        "name": "Café Livres",
+        "price": "prix moyen 22 €",
+        "offer": "-30% sur la carte",
+        "rating": "8.4",
+        "genre": "Cuisine traditionnelle"
+    },
+    {
+        "name": "L'Alsacien",
+        "price": "prix moyen 18 €",
+        "offer": "Privatisez gratuitement votre espace : Menu Groupe 25€",
+        "rating": "9.1",
+        "genre": "Alsacien"
+    },
+    {
+        "name": "Le Flore en L'Ile",
+        "price": "prix moyen 26 €",
+        "offer": "-40% sur la Carte",
+        "rating": "8.8",
+        "genre": "Français"
+    }
+]
