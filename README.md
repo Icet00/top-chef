@@ -1,3 +1,20 @@
+# Command
+
+Install the dependencies
+```
+npm install
+```
+
+Do the scraping (save the restaurants.json file)
+```
+npm run scraping
+```
+
+Start the server (loaded from the restaurants.json file)
+```
+npm start
+```
+
 # TOP CHEF
 
 > Eat well and cheaper than usually
